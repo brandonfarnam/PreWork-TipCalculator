@@ -1,6 +1,6 @@
 # Pre-work - Tip Calculator
 
-Tip Calculato is a tip calculator application for iOS.
+Tip Calculator is a tip calculator application for iOS.
 
 Submitted by: Khang Nguyen
 
